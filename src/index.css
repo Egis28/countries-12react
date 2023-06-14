@@ -1,5 +1,5 @@
 body {
-  background-image: url(./img/ball.jpeg);
+  background-image: url(./img/world.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -22,6 +22,9 @@ code {
 }
 
 .cards:hover{
-  box-shadow: -5px 6px 6px 2px #e9ecef;
   transform: scale(1.1);
 }
+
+
+
+
